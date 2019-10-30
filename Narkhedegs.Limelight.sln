@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narkhedegs.Limelight", "Narkhedegs.Limelight\Narkhedegs.Limelight.csproj", "{1CA9A6A2-2672-46CA-9D23-C18B7DD15AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narkhedegs.Limelight.UnitTests", "Narkhedegs.Limelight.UnitTests\Narkhedegs.Limelight.UnitTests.csproj", "{BED1C4CE-BA68-484E-8FD3-E7875BB4A571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA9A6A2-2672-46CA-9D23-C18B7DD15AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA9A6A2-2672-46CA-9D23-C18B7DD15AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA9A6A2-2672-46CA-9D23-C18B7DD15AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA9A6A2-2672-46CA-9D23-C18B7DD15AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED1C4CE-BA68-484E-8FD3-E7875BB4A571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED1C4CE-BA68-484E-8FD3-E7875BB4A571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED1C4CE-BA68-484E-8FD3-E7875BB4A571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED1C4CE-BA68-484E-8FD3-E7875BB4A571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640127B7-5F02-43E6-B208-7D06B33F1170}
+	EndGlobalSection
+EndGlobal
